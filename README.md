@@ -72,11 +72,7 @@ Neoantigen Discovery
 Personalized Vaccine Design
 Tumor Mutation Analysis
 **publication**
-This repository contains the peptide generation script used in the published research article:
-
 Analysis of Somatic Mutations in the TCGA-LIHC Whole Exome Sequence to Identify the Neoantigen for Immunotherapy in Hepatocellular Carcinoma
-Pulakuntla Swetha
-Current Issues in Molecular Biology (2023) 
-DOI: 10.3390/cimb46010009 
+Pulakuntla Swetha Current Issues in Molecular Biology (2023) DOI: 10.3390/cimb46010009 
 
 
